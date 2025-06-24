@@ -1,0 +1,16 @@
+# A few sample ignores for now
+
+# Node dependencies
+node_modules/
+
+# COMMENTED OUT TEMPORARILY FOR TESTING PURPOSES
+# dotenv environment variables
+# .env
+
+# OS-specific
+.DS_Store
+
+# IDE/editor settings
+.vscode/
+.idea/
+
